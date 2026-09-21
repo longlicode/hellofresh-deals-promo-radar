@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-09-21T02:57:36+00:00`.
+Generated from `data/offers.json` at `2026-09-21T11:13:54+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -17,8 +17,8 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | CookUnity | cookunity.com | 1 | Get 50% off your first week of chef-made, ready-to-eat meals | https://www.cookunity.com/lp/cookunity-discount-code |
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
-| Splendid Spoon | splendidspoon.com | 1 | GET 10% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
-| Daily Harvest | daily-harvest.com | 2 | No oven required. Spend $100 on your subscription box and choose any two High Protein Oat Bowls free. No code needed. Limited Time | https://daily-harvest.com/ |
+| Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
+| Daily Harvest | daily-harvest.com | 2 | Spend $100+, get 10% off | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
 | Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | NATIONAL SELF-CARE AWARENESS MONTH - 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
