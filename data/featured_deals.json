@@ -1,0 +1,22 @@
+{
+  "deals": [
+    {
+      "id": "levoit-cordless-vacuum-amazon-2026-09",
+      "enabled": true,
+      "title": "Levoit Cordless Vacuum Cleaner (Anti-Tangle for Pet Hair, Up to 50 Mins)",
+      "rrp": "199.99",
+      "deal_price": "149.00",
+      "currency": "USD",
+      "badge": "25% OFF | Amazon #1 Best Seller | Save $50",
+      "bullets": [
+        "Amazon's #1 Best Seller in Stick Vacuums (14,000+ reviews, 4.2★)",
+        "Anti-tangle motorized brush roll designed for pet hair",
+        "Up to 50 minutes of fade-free runtime",
+        "Ultra-lightweight & versatile 4-in-1 design for carpets and hard floors"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/41N-KLE7uPL._SS500_.jpg",
+      "cta_text": "View Deal on Amazon",
+      "cta_url": "https://pboost.me/q4O2f1ca"
+    }
+  ]
+}

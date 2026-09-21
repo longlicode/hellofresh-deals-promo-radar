@@ -52,6 +52,7 @@ CANCEL_GUIDES_PATH = ROOT / "data" / "cancel_guides.json"
 CONTACT_GUIDES_PATH = ROOT / "data" / "contact_guides.json"
 BUYER_COMPARISONS_PATH = ROOT / "data" / "buyer_comparisons.json"
 GIFT_CARD_GUIDES_PATH = ROOT / "data" / "gift_card_guides.json"
+FEATURED_DEALS_PATH = ROOT / "data" / "featured_deals.json"
 SITE_DIR = ROOT / "site"
 TPL_DIR = ROOT / "templates"
 
@@ -374,6 +375,84 @@ def _buyer_compare_cell_html(cell: dict[str, Any]) -> str:
         parts.append(f'<p class="meta">Captured {captured}</p>')
     return "\n".join(parts)
 
+
+
+def _https_only(url: str) -> str:
+    u = (url or "").strip()
+    return u if u.startswith("https://") else ""
+
+
+def build_featured_deals_html(deals_doc: dict[str, Any]) -> str:
+    """Render homepage featured deal cards from data/featured_deals.json (editorial, not scraped)."""
+    cards: list[str] = []
+    for deal in deals_doc.get("deals") or []:
+        if not deal.get("enabled", True):
+            continue
+        title = html.escape(str(deal.get("title") or "").strip())
+        cta_url = _https_only(str(deal.get("cta_url") or ""))
+        image_url = _https_only(str(deal.get("image_url") or ""))
+        cta_text = html.escape(str(deal.get("cta_text") or "View deal").strip())
+        if not title or not cta_url:
+            continue
+
+        currency = (deal.get("currency") or "USD").strip().upper()
+        sym = "$" if currency == "USD" else f"{currency} "
+        rrp = str(deal.get("rrp") or "").strip()
+        deal_price = str(deal.get("deal_price") or "").strip()
+        price_html = ""
+        if deal_price:
+            price_html = f'<p class="featured-deal-price"><span class="deal-price">{sym}{html.escape(deal_price)}</span>'
+            if rrp:
+                price_html += f' <span class="rrp">RRP {sym}{html.escape(rrp)}</span>'
+            price_html += "</p>"
+
+        badge_raw = str(deal.get("badge") or "").strip()
+        badges_html = ""
+        if badge_raw:
+            pills = [html.escape(p.strip()) for p in badge_raw.split("|") if p.strip()]
+            badges_html = "".join(f'<span class="pill featured-badge">{p}</span>' for p in pills)
+
+        bullets = deal.get("bullets") or []
+        bullet_items = "".join(
+            f"<li>{html.escape(str(b).strip())}</li>" for b in bullets if str(b).strip()
+        )
+        bullets_html = f"<ul class=\"featured-deal-bullets\">{bullet_items}</ul>" if bullet_items else ""
+
+        img_html = ""
+        if image_url:
+            img_html = (
+                f'<div class="featured-deal-media">'
+                f'<img src="{html.escape(image_url)}" alt="{title}" width="500" height="500" loading="lazy" decoding="async" />'
+                f"</div>"
+            )
+
+        cards.append(
+            f"""
+            <article class="featured-deal card">
+              <div class="featured-deal-layout">
+                {img_html}
+                <div class="featured-deal-body">
+                  <div class="featured-deal-badges">{badges_html}</div>
+                  <h2 class="featured-deal-title">{title}</h2>
+                  {price_html}
+                  {bullets_html}
+                  <a class="btn featured-deal-cta" href="{html.escape(cta_url)}" target="_blank" rel="noopener noreferrer sponsored">{cta_text}</a>
+                </div>
+              </div>
+            </article>
+            """
+        )
+
+    if not cards:
+        return ""
+    return (
+        '<section class="featured-section" aria-labelledby="featured-deals-heading">'
+        '<p class="eyebrow" id="featured-deals-heading">Featured deal</p>'
+        + "\n".join(cards)
+        + '<p class="meta featured-deal-note">Editorial pick · pricing and badges as supplied for this listing. '
+        "We may earn a commission if you buy through the link.</p>"
+        "</section>"
+    )
 
 
 def build_gift_card_guide_pages(
@@ -1519,6 +1598,13 @@ def render() -> None:
         ],
     }
 
+    featured_doc: dict[str, Any] = {}
+    if FEATURED_DEALS_PATH.exists():
+        try:
+            featured_doc = json.loads(FEATURED_DEALS_PATH.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            featured_doc = {}
+
     index_html = render_tpl(
         "index.html",
         {
@@ -1527,6 +1613,7 @@ def render() -> None:
             "description": f"Live public promo listings for meal kits: {', '.join(provider_order[:6])}. Updated {month}.",
             "canonical": abs_url(domain, "/"),
             "og_title": f"{brand} meal kit deals — {month}",
+            "featured_deals": build_featured_deals_html(featured_doc),
             "cards": "\n".join(cards) or "<p>No offers extracted yet. Pipeline will retry.</p>",
             "json_ld": json.dumps(item_list, ensure_ascii=False),
             "offer_count": str(len(offers)),
