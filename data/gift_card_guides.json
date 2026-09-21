@@ -1,0 +1,97 @@
+{
+  "hellofresh": {
+    "slug": "hellofresh-gift-card",
+    "provider_name": "HelloFresh",
+    "keyword": "hellofresh gift card",
+    "monthly_search_volume": 3600,
+    "title_primary": "HelloFresh Gift Card: How to Buy, Redeem & Official Terms",
+    "meta_description": "Direct official facts on HelloFresh gift cards: where to buy e-gift cards, redemption steps, subscription card requirements, and non-combinable promo rules.",
+    "reviewed_at": "2026-09-21",
+    "quick_answers": [
+      {
+        "question": "Can you buy official HelloFresh gift cards?",
+        "answer": "Yes. HelloFresh sells digital e-gift cards directly on its website in custom or preset amounts.",
+        "source_url": "https://www.hellofresh.com/gifts",
+        "source_label": "HelloFresh Gifts Portal (verified 2026-09-21)"
+      },
+      {
+        "question": "Where and how do you redeem a HelloFresh gift card?",
+        "answer": "Redeem directly at hellofresh.com/gift/redeem by entering your credit code. An active or newly created account is required.",
+        "source_url": "https://www.hellofresh.com/gift/redeem",
+        "source_label": "HelloFresh Gift Card Redemption Page"
+      },
+      {
+        "question": "Do you need a credit card to redeem a gift card?",
+        "answer": "Yes. HelloFresh is a recurring meal kit subscription. A valid credit card / payment method is required to activate an account even when using a gift card.",
+        "source_url": "https://www.hellofresh.com/about/termsandconditions",
+        "source_label": "HelloFresh Terms & Conditions — Section 11 (Gift Cards & Vouchers)"
+      },
+      {
+        "question": "Can gift cards be combined with promo codes (e.g. 16 free meals)?",
+        "answer": "No. Official HelloFresh terms state gift cards cannot be combined with promotional discounts, referral credits, or coupon codes.",
+        "source_url": "https://www.hellofresh.com/about/termsandconditions",
+        "source_label": "HelloFresh Terms & Conditions — Section 11.2"
+      },
+      {
+        "question": "Do HelloFresh gift cards expire or lose value over time?",
+        "answer": "No. Gift cards have no expiration date and incur no inactivity or dormancy fees.",
+        "source_url": "https://www.hellofresh.com/about/termsandconditions",
+        "source_label": "HelloFresh Terms & Conditions — Section 11.4"
+      },
+      {
+        "question": "Can existing subscribers redeem a gift card on their weekly deliveries?",
+        "answer": "Existing subscribers must order a separate single box or contact Customer Care to apply credit, as recurring weekly auto-renewals do not automatically pull from gift balances.",
+        "source_url": "https://www.hellofresh.com/about/faq",
+        "source_label": "HelloFresh FAQ — Gift Card Redemption for Existing Customers"
+      },
+      {
+        "question": "Are physical gift cards available in retail stores (Target / Walmart)?",
+        "answer": "Unconfirmed. In-store retail availability is subject to local store inventory and is not tracked live on the HelloFresh website.",
+        "source_url": "https://www.hellofresh.com/about/termsandconditions",
+        "source_label": "HelloFresh Official Documentation"
+      }
+    ],
+    "steps_to_redeem": [
+      {
+        "step": "1. Navigate to the official redemption page at hellofresh.com/gift/redeem.",
+        "source_url": "https://www.hellofresh.com/gift/redeem",
+        "source_label": "HelloFresh Redemption Portal"
+      },
+      {
+        "step": "2. Sign in to your HelloFresh account, or register a new account if you are a first-time customer.",
+        "source_url": "https://www.hellofresh.com/gift/redeem",
+        "source_label": "HelloFresh Account Portal"
+      },
+      {
+        "step": "3. Enter the alphanumeric gift card code received via email and submit.",
+        "source_url": "https://www.hellofresh.com/gift/redeem",
+        "source_label": "HelloFresh Redemption Portal"
+      },
+      {
+        "step": "4. Select your preferred meal plan preferences and add a backup payment method to finalize box scheduling.",
+        "source_url": "https://www.hellofresh.com/about/termsandconditions",
+        "source_label": "HelloFresh Terms & Conditions"
+      }
+    ],
+    "terms_summary": [
+      {
+        "topic": "Refund Policy",
+        "detail": "Non-refundable and cannot be redeemed for cash, except where required by state law.",
+        "source_url": "https://www.hellofresh.com/about/termsandconditions",
+        "source_label": "HelloFresh Terms & Conditions"
+      },
+      {
+        "topic": "Geographic Restrictions",
+        "detail": "Valid only within the United States for orders on hellofresh.com.",
+        "source_url": "https://www.hellofresh.com/about/termsandconditions",
+        "source_label": "HelloFresh Terms & Conditions"
+      },
+      {
+        "topic": "Remaining Balance",
+        "detail": "Any unspent credit remains attached to your account profile for subsequent orders.",
+        "source_url": "https://www.hellofresh.com/about/faq",
+        "source_label": "HelloFresh FAQ"
+      }
+    ]
+  }
+}

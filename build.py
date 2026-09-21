@@ -51,6 +51,7 @@ AUDIENCE_GUIDES_PATH = ROOT / "data" / "audience_guides.json"
 CANCEL_GUIDES_PATH = ROOT / "data" / "cancel_guides.json"
 CONTACT_GUIDES_PATH = ROOT / "data" / "contact_guides.json"
 BUYER_COMPARISONS_PATH = ROOT / "data" / "buyer_comparisons.json"
+GIFT_CARD_GUIDES_PATH = ROOT / "data" / "gift_card_guides.json"
 SITE_DIR = ROOT / "site"
 TPL_DIR = ROOT / "templates"
 
@@ -372,6 +373,77 @@ def _buyer_compare_cell_html(cell: dict[str, Any]) -> str:
     elif captured:
         parts.append(f'<p class="meta">Captured {captured}</p>')
     return "\n".join(parts)
+
+
+
+def build_gift_card_guide_pages(
+    brand: str,
+    domain: str,
+    base_vars: dict[str, Any],
+    guides: dict[str, Any],
+    generated: str,
+) -> list[tuple[str, str]]:
+    written: list[tuple[str, str]] = []
+    for _key, block in guides.items():
+        slug = (block.get("slug") or "").strip().strip("/")
+        if not slug:
+            continue
+        primary = str(block.get("title_primary") or "Gift Card Guide").strip()
+        reviewed = html.escape(str(block.get("reviewed_at") or generated).strip())
+        lede = html.escape(str(block.get("meta_description") or "").strip())
+        rel_path = page_path("guides", slug)
+
+        qa_rows: list[str] = []
+        for qa in block.get("quick_answers") or []:
+            q = html.escape(str(qa.get("question") or "").strip())
+            a = html.escape(str(qa.get("answer") or "").strip())
+            src = html.escape(str(qa.get("source_url") or "").strip())
+            lbl = html.escape(str(qa.get("source_label") or "Official source").strip())
+            qa_rows.append(
+                f"<li><strong>{q}</strong><br />{a} "
+                f'<a href="{src}" rel="nofollow noopener">{lbl}</a></li>'
+            )
+
+        step_rows: list[str] = []
+        for s in block.get("steps_to_redeem") or []:
+            st = html.escape(str(s.get("step") or "").strip())
+            src = html.escape(str(s.get("source_url") or "").strip())
+            lbl = html.escape(str(s.get("source_label") or "Official source").strip())
+            step_rows.append(
+                f'<li>{st} <a href="{src}" rel="nofollow noopener">{lbl}</a></li>'
+            )
+
+        terms_rows: list[str] = []
+        for t in block.get("terms_summary") or []:
+            top = html.escape(str(t.get("topic") or "").strip())
+            det = html.escape(str(t.get("detail") or "").strip())
+            src = html.escape(str(t.get("source_url") or "").strip())
+            lbl = html.escape(str(t.get("source_label") or "Official source").strip())
+            terms_rows.append(
+                f"<li><strong>{top}:</strong> {det} "
+                f'<a href="{src}" rel="nofollow noopener">{lbl}</a></li>'
+            )
+
+        page_html = render_tpl(
+            "gift_card_guide.html",
+            {
+                **base_vars,
+                "title": f"{primary} — {brand}",
+                "description": lede[:300],
+                "canonical": abs_url(domain, rel_path),
+                "og_title": primary,
+                "heading": html.escape(primary),
+                "lede": lede,
+                "crumb_title": html.escape(primary),
+                "quick_answers": "\n        ".join(qa_rows),
+                "redemption_steps": "\n        ".join(step_rows),
+                "terms_list": "\n        ".join(terms_rows),
+                "reviewed_at": reviewed,
+            },
+        )
+        write_page(rel_path, page_html)
+        written.append((rel_path, block.get("reviewed_at") or generated))
+    return written
 
 
 def build_buyer_comparison_pages(
@@ -1740,6 +1812,18 @@ def render() -> None:
         brand, domain, base_vars, buyer_comparisons, generated
     ):
         sitemap_urls.append((buyer_path, str(buyer_lm)))
+
+    gift_card_guides: dict[str, Any] = {}
+    if GIFT_CARD_GUIDES_PATH.exists():
+        try:
+            gift_card_guides = json.loads(GIFT_CARD_GUIDES_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            gift_card_guides = {}
+
+    for gc_path, gc_lm in build_gift_card_guide_pages(
+        brand, domain, base_vars, gift_card_guides, generated
+    ):
+        sitemap_urls.append((gc_path, str(gc_lm)))
 
     cutoff_meta = load_cursor_cutoff()
     cutoff_page = build_cursor_cutoff_page(
