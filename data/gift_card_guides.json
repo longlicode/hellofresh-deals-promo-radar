@@ -93,5 +93,82 @@
         "source_label": "HelloFresh FAQ"
       }
     ]
+  },
+  "home_chef": {
+    "slug": "home-chef-gift-card",
+    "provider_name": "Home Chef",
+    "keyword": "home chef gift card",
+    "monthly_search_volume": 1000,
+    "title_primary": "Home Chef Gift Card: Buy, Redeem & Official Terms",
+    "meta_description": "Official-source facts on Home Chef gift cards: purchase page, redemption, and terms verified on review date (Unconfirmed where the source did not verify).",
+    "reviewed_at": "2026-09-22",
+    "quick_answers": [
+      {
+        "question": "Can you buy official Home Chef gift cards?",
+        "answer": "Yes. Home Chef exposes an official gift-card-related page (see source link).",
+        "source_url": "https://www.homechef.com/gift-cards",
+        "source_label": "Home Chef — Gift purchase page (reviewed 2026-09-22)"
+      },
+      {
+        "question": "Where and how do you redeem a Home Chef gift card?",
+        "answer": "Redemption details are on Home Chef's official gift/redemption page linked below (verify steps there on 2026-09-22).",
+        "source_url": "https://www.homechef.com/gift-cards",
+        "source_label": "Home Chef — Redemption / gift page (reviewed 2026-09-22)"
+      },
+      {
+        "question": "Do you need a credit card or payment method on file to redeem?",
+        "answer": "Yes. Official terms or FAQ mention subscription billing or a payment method requirement (see source).",
+        "source_url": "https://www.homechef.com/terms",
+        "source_label": "Home Chef — Terms (reviewed 2026-09-22)"
+      },
+      {
+        "question": "Can gift cards be combined with promo codes or new-customer offers?",
+        "answer": "No. Official terms state gift cards/vouchers cannot be combined with promotional offers (see source).",
+        "source_url": "https://www.homechef.com/terms",
+        "source_label": "Home Chef — Terms (reviewed 2026-09-22)"
+      },
+      {
+        "question": "Do gift cards expire or charge inactivity fees?",
+        "answer": "Unconfirmed. Expiration or dormancy rules were not verified on 2026-09-22.",
+        "source_url": "https://www.homechef.com/terms",
+        "source_label": "Home Chef — Terms (reviewed 2026-09-22)"
+      },
+      {
+        "question": "Are physical gift cards sold in retail stores?",
+        "answer": "Unconfirmed. Retail (Target/Walmart) availability is not tracked on Home Chef's official site at review time.",
+        "source_url": "https://www.homechef.com/terms",
+        "source_label": "Home Chef — Terms (reviewed 2026-09-22)"
+      }
+    ],
+    "steps_to_redeem": [
+      {
+        "step": "1. Open Home Chef's official gift/redemption page (source link).",
+        "source_url": "https://www.homechef.com/gift-cards",
+        "source_label": "Home Chef — Redemption / gift page (reviewed 2026-09-22)"
+      },
+      {
+        "step": "2. Sign in or create an account if the official page requires it.",
+        "source_url": "https://www.homechef.com/gift-cards",
+        "source_label": "Home Chef — Redemption / gift page (reviewed 2026-09-22)"
+      },
+      {
+        "step": "3. Enter the gift code shown on your card or email, then follow on-page instructions.",
+        "source_url": "https://www.homechef.com/gift-cards",
+        "source_label": "Home Chef — Redemption / gift page (reviewed 2026-09-22)"
+      },
+      {
+        "step": "4. Confirm plan selection and any backup payment method required by the official flow.",
+        "source_url": "https://www.homechef.com/terms",
+        "source_label": "Home Chef — Terms (reviewed 2026-09-22)"
+      }
+    ],
+    "terms_summary": [
+      {
+        "topic": "Gift cards / vouchers",
+        "detail": "See official terms for gift-card rules fetched on the review date.",
+        "source_url": "https://www.homechef.com/terms",
+        "source_label": "Home Chef — Terms (reviewed 2026-09-22)"
+      }
+    ]
   }
 }

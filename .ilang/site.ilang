@@ -139,7 +139,7 @@ ILANG
   # 严格按美区真实月搜从大到小发文，一天一页，一个牌子一页，不开无词页，不许造词，不许估量
   # 批次池（8个品牌开页，1个太小不开）：
   1 | 2026-09-21 | hellofresh gift card (3600) | HelloFresh | /guides/hellofresh-gift-card/ | status: published
-  2 | 2026-09-22 | home chef gift card (1000) | Home Chef | /guides/home-chef-gift-card/ | status: queued
+  2 | 2026-09-22 | home chef gift card (1000) | Home Chef | /guides/home-chef-gift-card/ | status: published
   3 | 2026-09-23 | factor gift card (880) | Factor | /guides/factor-gift-card/ | status: queued
   4 | 2026-09-24 | blue apron gift card (720) | Blue Apron | /guides/blue-apron-gift-card/ | status: queued
   5 | 2026-09-25 | cookunity gift card (390) | CookUnity | /guides/cookunity-gift-card/ | status: queued
