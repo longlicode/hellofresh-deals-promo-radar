@@ -447,7 +447,8 @@ def build_featured_deals_html(deals_doc: dict[str, Any]) -> str:
         return ""
     return (
         '<section class="featured-section" aria-labelledby="featured-deals-heading">'
-        '<p class="eyebrow" id="featured-deals-heading">Featured deals</p>'
+        '<p class="eyebrow" id="featured-deals-heading">Partner Spotlight · Smart Home &amp; Living Specials</p>'
+        '<p class="meta featured-deal-intro">Curated limited-time offers handpicked from our verified brand partners.</p>'
         + "\n".join(cards)
         + '<p class="meta featured-deal-note">Editorial pick · pricing and badges as supplied for this listing. '
         "We may earn a commission if you buy through the link.</p>"
