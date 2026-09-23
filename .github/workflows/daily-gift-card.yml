@@ -42,7 +42,14 @@ jobs:
       - name: Build static site
         run: python build.py
 
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@4 pages deploy site --project-name hellofresh-deals-promo-radar --branch main
+
       - name: Commit gift-card guide and refreshed data
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -51,12 +58,6 @@ jobs:
             echo "No publish/data changes today"
           else
             git commit -m "chore: daily gift-card guide $(date -u +%Y-%m-%d)"
-            git pull --rebase origin main
+            git pull --rebase origin main || git rebase --abort
             git push
           fi
-
-      - name: Deploy to Cloudflare Pages
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: npx --yes wrangler@4 pages deploy site --project-name hellofresh-deals-promo-radar --branch main
