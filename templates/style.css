@@ -243,6 +243,21 @@ a:hover { color: var(--accent-2); }
   display: flex; gap: 1.5rem; flex-wrap: wrap; margin: 1.5rem 0 0;
   color: var(--muted); font-weight: 600;
 }
+.hero-actions {
+  margin: 1.25rem 0 0;
+}
+.home-newsletter-section {
+  margin: 4rem auto 2rem;
+  max-width: 42rem;
+  padding: 2.25rem 2rem;
+  background: var(--surface, #ffffff);
+  border: 1px solid var(--border, #e5e7eb);
+  border-radius: var(--radius, 12px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+}
+.home-newsletter-section .cutoff-subscribe {
+  margin: 0 auto;
+}
 .featured-section {
   padding: 0 0 1.25rem;
 }
