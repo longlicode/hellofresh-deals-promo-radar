@@ -1,6 +1,22 @@
 {
   "deals": [
     {
+      "id": "viomi-v6-ro-water-filter-amazon-2026-09",
+      "enabled": true,
+      "title": "VIOMI V6 600 GPD Tankless Reverse Osmosis Water Filtration System",
+      "deal_price": "339.99",
+      "currency": "USD",
+      "badge": "600 GPD Fast Flow | 9-Stage RO Filtration | Smart Faucet",
+      "bullets": [
+        "600 GPD high-capacity tankless design delivers pure water in 6 seconds",
+        "9-stage advanced filtration effectively reduces TDS, PFOS, PFOA, and heavy metals",
+        "Smart LED faucet with real-time filter life indicator and tool-free quick replacement"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/41jf1EeZcjL._SS500_.jpg",
+      "cta_text": "View Deal on Amazon",
+      "cta_url": "https://pboost.me/f4Sh7tDHc"
+    },
+    {
       "id": "roborock-qrevo-s-pro-amazon-2026-09",
       "enabled": true,
       "title": "Roborock 2026 New Qrevo S Pro Robot Vacuum and Mop",
