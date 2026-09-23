@@ -1,6 +1,39 @@
 {
   "deals": [
     {
+      "id": "roborock-qrevo-s-pro-amazon-2026-09",
+      "enabled": true,
+      "title": "Roborock 2026 New Qrevo S Pro Robot Vacuum and Mop",
+      "deal_price": "699.99",
+      "currency": "USD",
+      "badge": "18,500Pa Suction | Auto Mop Wash & Hot Dry",
+      "bullets": [
+        "18,500Pa extreme suction for deep carpet and hard-floor cleaning",
+        "Auto mop washing and hot air drying for hands-off maintenance",
+        "Reactive obstacle avoidance for safer navigation around furniture and pets"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/31DKyfvT1pL._SS500_.jpg",
+      "cta_text": "View Deal on Amazon",
+      "cta_url": "https://pboost.me/A4S9tC2c"
+    },
+    {
+      "id": "hasuit-makeup-vanity-amazon-2026-09",
+      "enabled": true,
+      "title": "Hasuit 48.8'' Large Makeup Vanity Desk with Lighted Mirror & Power Outlet",
+      "rrp": "142.97",
+      "deal_price": "132.97",
+      "currency": "USD",
+      "badge": "Clip $10 Coupon | LED Vanity Mirror",
+      "bullets": [
+        "Built-in power outlet and USB ports for styling tools and devices",
+        "3 lighting modes on the LED mirror for day, evening, and close-up makeup",
+        "6 drawers and cabinet storage for organized cosmetics and accessories"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/71uY-0gGNmL._AC_SL1500_.jpg",
+      "cta_text": "View Deal on Amazon",
+      "cta_url": "https://pboost.me/v4S97w82c"
+    },
+    {
       "id": "levoit-cordless-vacuum-amazon-2026-09",
       "enabled": true,
       "title": "Levoit Cordless Vacuum Cleaner (Anti-Tangle for Pet Hair, Up to 50 Mins)",

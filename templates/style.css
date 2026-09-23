@@ -249,6 +249,9 @@ a:hover { color: var(--accent-2); }
 .featured-section > .eyebrow {
   margin: 0 0 0.75rem;
 }
+.featured-section .featured-deal + .featured-deal {
+  margin-top: 1rem;
+}
 .featured-deal {
   padding: 0;
   overflow: hidden;
