@@ -247,5 +247,67 @@
         "source_label": "Factor — Terms (reviewed 2026-09-23)"
       }
     ]
+  },
+  "blue_apron": {
+    "slug": "blue-apron-gift-card",
+    "provider_name": "Blue Apron",
+    "keyword": "blue apron gift card",
+    "monthly_search_volume": 720,
+    "title_primary": "Blue Apron Gift Card: Buy, Redeem & Official Terms",
+    "meta_description": "Blue Apron gift card guide using official Blue Apron URLs; Unconfirmed where pages could not be fetched or verified on the review date.",
+    "reviewed_at": "2026-09-24",
+    "quick_answers": [
+      {
+        "question": "Can you buy official Blue Apron gift cards?",
+        "answer": "Unconfirmed. Official gift-card purchase content could not be verified from fetched pages on 2026-09-24.",
+        "source_url": "https://www.blueapron.com/gifts",
+        "source_label": "Blue Apron — Gift purchase page (reviewed 2026-09-24)"
+      },
+      {
+        "question": "Where and how do you redeem a Blue Apron gift card?",
+        "answer": "Unconfirmed. Redemption steps were not verified from official HTML on 2026-09-24.",
+        "source_url": "https://www.blueapron.com/gifts",
+        "source_label": "Blue Apron — Redemption / gift page (reviewed 2026-09-24)"
+      },
+      {
+        "question": "Do you need a credit card or payment method on file to redeem?",
+        "answer": "Unconfirmed. Payment-method requirements for gift redemption were not verified on 2026-09-24.",
+        "source_url": "https://www.blueapron.com/terms",
+        "source_label": "Blue Apron — Terms (reviewed 2026-09-24)"
+      },
+      {
+        "question": "Can gift cards be combined with promo codes or new-customer offers?",
+        "answer": "Unconfirmed. Promo stacking rules for gift cards were not verified on 2026-09-24.",
+        "source_url": "https://www.blueapron.com/terms",
+        "source_label": "Blue Apron — Terms (reviewed 2026-09-24)"
+      },
+      {
+        "question": "Do gift cards expire or charge inactivity fees?",
+        "answer": "Unconfirmed. Expiration or dormancy rules were not verified on 2026-09-24.",
+        "source_url": "https://www.blueapron.com/terms",
+        "source_label": "Blue Apron — Terms (reviewed 2026-09-24)"
+      },
+      {
+        "question": "Are physical gift cards sold in retail stores?",
+        "answer": "Unconfirmed. Retail (Target/Walmart) availability is not tracked on Blue Apron's official site at review time.",
+        "source_url": "https://www.blueapron.com/terms",
+        "source_label": "Blue Apron — Terms (reviewed 2026-09-24)"
+      }
+    ],
+    "steps_to_redeem": [
+      {
+        "step": "Unconfirmed. Follow Blue Apron's official gift or help pages when available; steps were not verified on 2026-09-24.",
+        "source_url": "https://www.blueapron.com/gifts",
+        "source_label": "Blue Apron — Redemption / gift page (reviewed 2026-09-24)"
+      }
+    ],
+    "terms_summary": [
+      {
+        "topic": "Gift cards / vouchers",
+        "detail": "Unconfirmed. Gift-card terms were not extracted from official pages on 2026-09-24.",
+        "source_url": "https://www.blueapron.com/terms",
+        "source_label": "Blue Apron — Terms (reviewed 2026-09-24)"
+      }
+    ]
   }
 }
