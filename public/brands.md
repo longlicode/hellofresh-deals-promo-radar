@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-09-24T13:40:35+00:00`.
+Generated from `data/offers.json` at `2026-09-24T16:23:44+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -17,7 +17,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | CookUnity | cookunity.com | 1 | Get 50% off your first week of chef-made, ready-to-eat meals | https://www.cookunity.com/lp/cookunity-discount-code |
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
-| Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
+| Splendid Spoon | splendidspoon.com | 1 | GET 10% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | Spend $100+, get 10% off | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
 | Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
@@ -26,7 +26,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
 | Green Chef | greenchef.com | 1 | Get 50% Off Your First Box + Free Staub Mixing Bowls with your third box* | https://www.greenchef.com/ |
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
-| Sunbasket | sunbasket.com | 1 | Get $90 off across 4 boxes | https://sunbasket.com/homepage-eat-clean/ |
+| Sunbasket | sunbasket.com | 1 | $90 off across 4 boxes * Activate Offer Menu How It Works Valu es | https://sunbasket.com/ |
 | Purple Carrot | purplecarrot.com | 1 | Order Now And Save Big / Get $100 Off Your First Month —> Shop Why Plants Gifts Log In Our Product FAQs Contact Us Log In The easies | https://www.purplecarrot.com/ |
 | ButcherBox | butcherbox.com | 3 | 20% Off | https://www.butcherbox.com/ |
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER + FREE MEAL PREP CHICKEN FOR A MONTH Email Get My Coupon | https://www.trifectanutrition.com/ |
