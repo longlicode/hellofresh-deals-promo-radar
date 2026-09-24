@@ -1,6 +1,24 @@
 {
   "deals": [
     {
+      "id": "cozyexpert-electric-lunch-box-amazon-2026-09",
+      "enabled": true,
+      "title": "COZYEXPERT 100W Electric Lunch Box & Heated Food Warmer (1.8L Portable)",
+      "rrp": "32.99",
+      "deal_price": "27.99",
+      "currency": "USD",
+      "badge": "15% OFF + Extra 10% Code: 8TLR9JW9 | 100W Fast Heat | Car & Home",
+      "bullets": [
+        "100W rapid heating technology warms meals in 20-30 minutes for work or travel",
+        "Dual voltage compatibility: 12V/24V for car/truck and 110V-230V for home/office",
+        "1.8L large capacity food-grade 304 stainless steel container with leak-proof seal",
+        "Includes stainless steel fork & spoon with insulated carry bag"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/51BSGIhEODL._SS500_.jpg",
+      "cta_text": "View Deal on Amazon (Code: 8TLR9JW9)",
+      "cta_url": "https://pboost.me/N4TC4jcPc"
+    },
+    {
       "id": "viomi-v6-ro-water-filter-amazon-2026-09",
       "enabled": true,
       "title": "VIOMI V6 600 GPD Tankless Reverse Osmosis Water Filtration System",
