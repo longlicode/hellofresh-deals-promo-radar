@@ -309,5 +309,82 @@
         "source_label": "Blue Apron — Terms (reviewed 2026-09-24)"
       }
     ]
+  },
+  "cookunity": {
+    "slug": "cookunity-gift-card",
+    "provider_name": "CookUnity",
+    "keyword": "cookunity gift card",
+    "monthly_search_volume": 390,
+    "title_primary": "CookUnity Gift Card: Official Buy & Redeem Facts",
+    "meta_description": "CookUnity gift cards: official gift-card page and terms, reviewed on date shown; Unconfirmed when not verifiable from fetched official HTML.",
+    "reviewed_at": "2026-09-25",
+    "quick_answers": [
+      {
+        "question": "Can you buy official CookUnity gift cards?",
+        "answer": "Yes. CookUnity exposes an official gift-card-related page (see source link).",
+        "source_url": "https://www.cookunity.com/gift-cards",
+        "source_label": "CookUnity — Gift purchase page (reviewed 2026-09-25)"
+      },
+      {
+        "question": "Where and how do you redeem a CookUnity gift card?",
+        "answer": "Redemption details are on CookUnity's official gift/redemption page linked below (verify steps there on 2026-09-25).",
+        "source_url": "https://www.cookunity.com/gift-cards",
+        "source_label": "CookUnity — Redemption / gift page (reviewed 2026-09-25)"
+      },
+      {
+        "question": "Do you need a credit card or payment method on file to redeem?",
+        "answer": "Yes. Official terms or FAQ mention subscription billing or a payment method requirement (see source).",
+        "source_url": "https://www.cookunity.com/terms",
+        "source_label": "CookUnity — Terms (reviewed 2026-09-25)"
+      },
+      {
+        "question": "Can gift cards be combined with promo codes or new-customer offers?",
+        "answer": "No. Official terms state gift cards/vouchers cannot be combined with promotional offers (see source).",
+        "source_url": "https://www.cookunity.com/terms",
+        "source_label": "CookUnity — Terms (reviewed 2026-09-25)"
+      },
+      {
+        "question": "Do gift cards expire or charge inactivity fees?",
+        "answer": "Unconfirmed. Expiration or dormancy rules were not verified on 2026-09-25.",
+        "source_url": "https://www.cookunity.com/terms",
+        "source_label": "CookUnity — Terms (reviewed 2026-09-25)"
+      },
+      {
+        "question": "Are physical gift cards sold in retail stores?",
+        "answer": "Unconfirmed. Retail (Target/Walmart) availability is not tracked on CookUnity's official site at review time.",
+        "source_url": "https://www.cookunity.com/terms",
+        "source_label": "CookUnity — Terms (reviewed 2026-09-25)"
+      }
+    ],
+    "steps_to_redeem": [
+      {
+        "step": "1. Open CookUnity's official gift/redemption page (source link).",
+        "source_url": "https://www.cookunity.com/gift-cards",
+        "source_label": "CookUnity — Redemption / gift page (reviewed 2026-09-25)"
+      },
+      {
+        "step": "2. Sign in or create an account if the official page requires it.",
+        "source_url": "https://www.cookunity.com/gift-cards",
+        "source_label": "CookUnity — Redemption / gift page (reviewed 2026-09-25)"
+      },
+      {
+        "step": "3. Enter the gift code shown on your card or email, then follow on-page instructions.",
+        "source_url": "https://www.cookunity.com/gift-cards",
+        "source_label": "CookUnity — Redemption / gift page (reviewed 2026-09-25)"
+      },
+      {
+        "step": "4. Confirm plan selection and any backup payment method required by the official flow.",
+        "source_url": "https://www.cookunity.com/terms",
+        "source_label": "CookUnity — Terms (reviewed 2026-09-25)"
+      }
+    ],
+    "terms_summary": [
+      {
+        "topic": "Gift cards / vouchers",
+        "detail": "See official terms for gift-card rules fetched on the review date.",
+        "source_url": "https://www.cookunity.com/terms",
+        "source_label": "CookUnity — Terms (reviewed 2026-09-25)"
+      }
+    ]
   }
 }

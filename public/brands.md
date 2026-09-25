@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-09-25T11:02:16+00:00`.
+Generated from `data/offers.json` at `2026-09-25T13:56:17+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -28,7 +28,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
 | Sunbasket | sunbasket.com | 1 | $90 off across 4 boxes * Activate Offer Menu How It Works Valu es | https://sunbasket.com/ |
 | Purple Carrot | purplecarrot.com | 1 | Order Now And Save Big / Get $100 Off Your First Month —> Shop Why Plants Gifts Log In Our Product FAQs Contact Us Log In The easies | https://www.purplecarrot.com/ |
-| ButcherBox | butcherbox.com | 3 | 20% Off | https://www.butcherbox.com/ |
+| ButcherBox | butcherbox.com | 3 | 30% Off | https://www.butcherbox.com/ |
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER | https://www.trifectanutrition.com/ |
 | Epicured | epicured.com | 1 | Use code FALL40 for 40% OFF + Free Shipping* on your first subscription order | https://epicured.com/ |
 | MamaSezz | mamasezz.com | 1 | 10% off your first order | https://www.mamasezz.com/ |
