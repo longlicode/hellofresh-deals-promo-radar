@@ -1,6 +1,24 @@
 {
   "deals": [
     {
+      "id": "ysolx-300w-car-power-inverter-amazon-2026-09",
+      "enabled": true,
+      "title": "YSOLX 300W Car Power Inverter (12V DC to 110V AC with Dual Outlets & Fast USB)",
+      "rrp": "35.99",
+      "deal_price": "26.98",
+      "currency": "USD",
+      "badge": "Amazon #4 Best Seller | 300W Peak | Smart Battery Protection | Dual 110V AC",
+      "bullets": [
+        "Converts 12V DC cigarette lighter socket to dual 110V AC wall outlets plus fast USB charging",
+        "Safe for charging laptops, tablets, and phones on road trips and daily job-site commutes",
+        "Built-in smart protection fuse and auto shut-off safeguard vehicle battery from drain or overheating",
+        "Ultra-silent intelligent cooling fan and compact lightweight travel-ready build"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/413IFzgNpIL._SS500_.jpg",
+      "cta_text": "View Deal on Amazon ($26.98 Flash Deal)",
+      "cta_url": "https://pboost.me/D4TVg2gGa"
+    },
+    {
       "id": "cozyexpert-electric-lunch-box-amazon-2026-09",
       "enabled": true,
       "title": "COZYEXPERT 100W Electric Lunch Box & Heated Food Warmer (1.8L Portable)",
