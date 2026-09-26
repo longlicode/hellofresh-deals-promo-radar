@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-09-25T21:04:10+00:00`.
+Generated from `data/offers.json` at `2026-09-26T03:08:43+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
