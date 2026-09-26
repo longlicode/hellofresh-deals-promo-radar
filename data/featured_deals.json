@@ -1,6 +1,42 @@
 {
   "deals": [
     {
+      "id": "segway-navimow-i105n-robot-mower-amazon-2026-09",
+      "enabled": true,
+      "title": "Segway Navimow i105N Wire-Free Robot Lawn Mower (RTK + AI Vision)",
+      "rrp": "799.00",
+      "deal_price": "669.00",
+      "currency": "USD",
+      "badge": "16% OFF | Wire-Free RTK + AI Vision | 0.25 Acre",
+      "bullets": [
+        "Perimeter wire free robotic mower with advanced EFLS 2.0 RTK and AI-assisted vision mapping",
+        "Gentle turf-safe turning technology prevents tearing up delicate lawn and sod",
+        "Smart obstacle avoidance and virtual boundary management entirely via mobile app",
+        "Ultra-quiet 58dB(A) operation with multi-zone care ideal for up to 0.25 acre yards"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/41zRHwQuA-L._SS500_.jpg",
+      "cta_text": "View Deal on Amazon (16% OFF $669)",
+      "cta_url": "https://pboost.me/M4VG8cEg"
+    },
+    {
+      "id": "esr-qi2-cyclone-charger-amazon-2026-09",
+      "enabled": true,
+      "title": "ESR Qi2.2 25W Cyclone Magnetic Fast Wireless Charging Pad",
+      "rrp": "34.99",
+      "deal_price": "25.99",
+      "currency": "USD",
+      "badge": "26% OFF Amazon Deal | Qi2.2 25W Certified | CryoBoost Cooling",
+      "bullets": [
+        "Official Qi2.2 25W certified ultra-fast magnetic wireless charging speed",
+        "Active Cyclone / CryoBoost cooling system keeps phone and battery safe and chilled",
+        "Adjustable angle stand design supports portrait and landscape viewing while charging",
+        "Seamlessly compatible with iPhone 16/15/14/13/12 MagSafe series"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/61MdguAJKHL._AC_SX425_.jpg",
+      "cta_text": "View Deal on Amazon (26% Off Deal)",
+      "cta_url": "https://www.amazon.com/dp/B0H9WPZMR4?maas=maas_adg_api_590258872881756154_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB0a7c4f863a84d8dfd4cc2e8bf8560651&aa_adgroupid=3a92F_akugk1FC48JwRKrS5RksLRcRzeZ52biWKbk7eLtDKIbJCrdNuIjvomCxL8e_bV_a2bzLjNbhhcP4FJFJ2usf_awg_c_c&aa_creativeid=8d83pbKkFqye7g_akO49xuLR6E6i6bZMF83LdD6L9uiStFpRe"
+    },
+    {
       "id": "ysolx-300w-car-power-inverter-amazon-2026-09",
       "enabled": true,
       "title": "YSOLX 300W Car Power Inverter (12V DC to 110V AC with Dual Outlets & Fast USB)",
@@ -103,7 +139,7 @@
     },
     {
       "id": "levoit-cordless-vacuum-amazon-2026-09",
-      "enabled": true,
+      "enabled": false,
       "title": "Levoit Cordless Vacuum Cleaner (Anti-Tangle for Pet Hair, Up to 50 Mins)",
       "rrp": "199.99",
       "deal_price": "149.00",

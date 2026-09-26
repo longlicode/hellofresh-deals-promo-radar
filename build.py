@@ -88,7 +88,7 @@ def footer_links_html(include_contact: bool = True) -> str:
     parts = ['<a href="/about/">About</a>']
     if include_contact:
         parts.append('<a href="/contact/">Contact</a>')
-    parts.extend(['<a href="/privacy/">Privacy</a>', '<a href="/compare/">Compare</a>'])
+    parts.extend(['<a href="/privacy/">Privacy</a>', '<a href="/terms/">Terms</a>', '<a href="/compare/">Compare</a>'])
     return '<p class="footer-links">' + " ".join(parts) + "</p>"
 
 
@@ -1315,6 +1315,32 @@ def build_static_pages(
     )
     write_page(privacy_path, privacy_html)
     written.append((privacy_path, privacy_html))
+
+    terms_body = f"""
+        <p>Welcome to <strong>{html.escape(brand)}</strong> (<strong>{html.escape(domain)}</strong>). By accessing or using this website, you agree to be bound by these Terms of Service.</p>
+        <p><strong>Affiliate Disclosure & Earnings Disclaimer.</strong> {html.escape(brand)} is an independent shopping guide and promotional directory. Some outbound links on this website (including links to meal kit providers, Amazon, and partner brand products) are affiliate links. If you click through and make a purchase or subscribe, we may receive a commission at no additional cost to you. Product pricing, promotions, and availability are set by the respective merchants and are subject to change without notice.</p>
+        <p><strong>Accuracy of Information.</strong> Promotional listings and deal details are collected from public brand pages and official partner feeds. While we strive to ensure all information is timely and accurate, we do not warrant that product descriptions, pricing, or terms are error-free. Always confirm pricing, discount eligibility, and terms on the merchant's official site before completing an order.</p>
+        <p><strong>Intellectual Property.</strong> Brand names, logos, trademarks, and registered trademarks displayed on this site are the property of their respective owners. Their display does not imply endorsement or affiliation beyond our participation in standard affiliate marketing programs.</p>
+        <p><strong>Limitation of Liability.</strong> {html.escape(brand)} shall not be liable for any direct, indirect, incidental, or consequential damages resulting from your use of this website or your transactions with third-party merchants.</p>
+        {contact_line}
+        <p>Last updated: {html.escape(date.today().isoformat())}.</p>
+    """
+    terms_path = page_path("terms")
+    terms_html = render_tpl(
+        "static.html",
+        {
+            **base_vars,
+            "title": f"Terms of Service & Affiliate Disclosure — {brand}",
+            "description": f"Terms of Service and Affiliate Disclosure for {brand}.",
+            "canonical": abs_url(domain, terms_path),
+            "og_title": f"Terms & Affiliate Disclosure — {brand}",
+            "eyebrow": "Legal",
+            "heading": "Terms of Service & Affiliate Disclosure",
+            "body": terms_body,
+        },
+    )
+    write_page(terms_path, terms_html)
+    written.append((terms_path, terms_html))
     return written
 
 
