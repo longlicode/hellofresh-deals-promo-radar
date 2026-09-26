@@ -386,5 +386,82 @@
         "source_label": "CookUnity — Terms (reviewed 2026-09-25)"
       }
     ]
+  },
+  "hungryroot": {
+    "slug": "hungryroot-gift-card",
+    "provider_name": "Hungryroot",
+    "keyword": "hungryroot gift card",
+    "monthly_search_volume": 320,
+    "title_primary": "Hungryroot Gift Card: Official Sources & Terms",
+    "meta_description": "Hungryroot gift card facts from official pages with review date; Unconfirmed items when official sources did not verify at fetch time.",
+    "reviewed_at": "2026-09-26",
+    "quick_answers": [
+      {
+        "question": "Can you buy official Hungryroot gift cards?",
+        "answer": "Yes. Hungryroot exposes an official gift-card-related page (see source link).",
+        "source_url": "https://www.hungryroot.com/gift",
+        "source_label": "Hungryroot — Gift purchase page (reviewed 2026-09-26)"
+      },
+      {
+        "question": "Where and how do you redeem a Hungryroot gift card?",
+        "answer": "Redemption details are on Hungryroot's official gift/redemption page linked below (verify steps there on 2026-09-26).",
+        "source_url": "https://www.hungryroot.com/gift",
+        "source_label": "Hungryroot — Redemption / gift page (reviewed 2026-09-26)"
+      },
+      {
+        "question": "Do you need a credit card or payment method on file to redeem?",
+        "answer": "Yes. Official terms or FAQ mention subscription billing or a payment method requirement (see source).",
+        "source_url": "https://www.hungryroot.com/terms",
+        "source_label": "Hungryroot — Terms (reviewed 2026-09-26)"
+      },
+      {
+        "question": "Can gift cards be combined with promo codes or new-customer offers?",
+        "answer": "No. Official terms state gift cards/vouchers cannot be combined with promotional offers (see source).",
+        "source_url": "https://www.hungryroot.com/terms",
+        "source_label": "Hungryroot — Terms (reviewed 2026-09-26)"
+      },
+      {
+        "question": "Do gift cards expire or charge inactivity fees?",
+        "answer": "No expiration or dormancy fees are described in the fetched official terms excerpt (see source).",
+        "source_url": "https://www.hungryroot.com/terms",
+        "source_label": "Hungryroot — Terms (reviewed 2026-09-26)"
+      },
+      {
+        "question": "Are physical gift cards sold in retail stores?",
+        "answer": "Unconfirmed. Retail (Target/Walmart) availability is not tracked on Hungryroot's official site at review time.",
+        "source_url": "https://www.hungryroot.com/terms",
+        "source_label": "Hungryroot — Terms (reviewed 2026-09-26)"
+      }
+    ],
+    "steps_to_redeem": [
+      {
+        "step": "1. Open Hungryroot's official gift/redemption page (source link).",
+        "source_url": "https://www.hungryroot.com/gift",
+        "source_label": "Hungryroot — Redemption / gift page (reviewed 2026-09-26)"
+      },
+      {
+        "step": "2. Sign in or create an account if the official page requires it.",
+        "source_url": "https://www.hungryroot.com/gift",
+        "source_label": "Hungryroot — Redemption / gift page (reviewed 2026-09-26)"
+      },
+      {
+        "step": "3. Enter the gift code shown on your card or email, then follow on-page instructions.",
+        "source_url": "https://www.hungryroot.com/gift",
+        "source_label": "Hungryroot — Redemption / gift page (reviewed 2026-09-26)"
+      },
+      {
+        "step": "4. Confirm plan selection and any backup payment method required by the official flow.",
+        "source_url": "https://www.hungryroot.com/terms",
+        "source_label": "Hungryroot — Terms (reviewed 2026-09-26)"
+      }
+    ],
+    "terms_summary": [
+      {
+        "topic": "Gift cards / vouchers",
+        "detail": "See official terms for gift-card rules fetched on the review date.",
+        "source_url": "https://www.hungryroot.com/terms",
+        "source_label": "Hungryroot — Terms (reviewed 2026-09-26)"
+      }
+    ]
   }
 }
