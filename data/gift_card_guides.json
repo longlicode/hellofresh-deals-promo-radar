@@ -540,5 +540,67 @@
         "source_label": "EveryPlate — Terms (reviewed 2026-09-27)"
       }
     ]
+  },
+  "marley_spoon": {
+    "slug": "marley-spoon-gift-card",
+    "provider_name": "Marley Spoon",
+    "keyword": "marley spoon gift card",
+    "monthly_search_volume": 50,
+    "title_primary": "Marley Spoon Gift Card: Official Terms & Availability",
+    "meta_description": "Marley Spoon gift card facts from official sources; Unconfirmed when gift cards are not verifiable on fetched official pages at review time.",
+    "reviewed_at": "2026-09-28",
+    "quick_answers": [
+      {
+        "question": "Can you buy official Marley Spoon gift cards?",
+        "answer": "Unconfirmed. Official gift-card purchase content could not be verified from fetched pages on 2026-09-28.",
+        "source_url": "https://marleyspoon.com/",
+        "source_label": "Marley Spoon — Gift purchase page (reviewed 2026-09-28)"
+      },
+      {
+        "question": "Where and how do you redeem a Marley Spoon gift card?",
+        "answer": "Redemption details are on Marley Spoon's official gift/redemption page linked below (verify steps there on 2026-09-28).",
+        "source_url": "https://marleyspoon.com/",
+        "source_label": "Marley Spoon — Redemption / gift page (reviewed 2026-09-28)"
+      },
+      {
+        "question": "Do you need a credit card or payment method on file to redeem?",
+        "answer": "Yes. Official terms or FAQ mention subscription billing or a payment method requirement (see source).",
+        "source_url": "https://marleyspoon.com/terms",
+        "source_label": "Marley Spoon — Terms (reviewed 2026-09-28)"
+      },
+      {
+        "question": "Can gift cards be combined with promo codes or new-customer offers?",
+        "answer": "No. Official terms state gift cards/vouchers cannot be combined with promotional offers (see source).",
+        "source_url": "https://marleyspoon.com/terms",
+        "source_label": "Marley Spoon — Terms (reviewed 2026-09-28)"
+      },
+      {
+        "question": "Do gift cards expire or charge inactivity fees?",
+        "answer": "Unconfirmed. Expiration or dormancy rules were not verified on 2026-09-28.",
+        "source_url": "https://marleyspoon.com/terms",
+        "source_label": "Marley Spoon — Terms (reviewed 2026-09-28)"
+      },
+      {
+        "question": "Are physical gift cards sold in retail stores?",
+        "answer": "Unconfirmed. Retail (Target/Walmart) availability is not tracked on Marley Spoon's official site at review time.",
+        "source_url": "https://marleyspoon.com/terms",
+        "source_label": "Marley Spoon — Terms (reviewed 2026-09-28)"
+      }
+    ],
+    "steps_to_redeem": [
+      {
+        "step": "Unconfirmed. Follow Marley Spoon's official gift or help pages when available; steps were not verified on 2026-09-28.",
+        "source_url": "https://marleyspoon.com/",
+        "source_label": "Marley Spoon — Redemption / gift page (reviewed 2026-09-28)"
+      }
+    ],
+    "terms_summary": [
+      {
+        "topic": "Gift cards / vouchers",
+        "detail": "See official terms for gift-card rules fetched on the review date.",
+        "source_url": "https://marleyspoon.com/terms",
+        "source_label": "Marley Spoon — Terms (reviewed 2026-09-28)"
+      }
+    ]
   }
 }

@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-09-28T12:44:04+00:00`.
+Generated from `data/offers.json` at `2026-09-28T16:51:19+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -20,11 +20,11 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | 25% OFF | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
-| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
+| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | NATIONAL SELF-CARE AWARENESS MONTH - 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
 | Clean Eatz Kitchen | cleaneatzkitchen.com | 1 | Up to 20% off | https://www.cleaneatzkitchen.com/ |
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
-| Green Chef | greenchef.com | 1 | Get 50% Off Your First Box + Free Staub Mixing Bowls with your third box* | https://www.greenchef.com/ |
+| Green Chef | greenchef.com | 1 | 50% Off | https://www.greenchef.com/ |
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
 | Sunbasket | sunbasket.com | 1 | Get $90 off across 4 boxes | https://sunbasket.com/homepage-eat-clean/ |
 | Purple Carrot | purplecarrot.com | 1 | Order Now And Save Big / Get $100 Off Your First Month —> Shop Why Plants Gifts Log In Our Product FAQs Contact Us Log In The easies | https://www.purplecarrot.com/ |
