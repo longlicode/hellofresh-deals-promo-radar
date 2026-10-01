@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-01T03:44:49+00:00`.
+Generated from `data/offers.json` at `2026-10-01T12:20:23+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -17,7 +17,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | CookUnity | cookunity.com | 1 | Get 50% off your first week of chef-made, ready-to-eat meals | https://www.cookunity.com/lp/cookunity-discount-code |
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
-| Splendid Spoon | splendidspoon.com | 1 | GET 10% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
+| Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | 25% OFF | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
 | Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
@@ -32,7 +32,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER | https://www.trifectanutrition.com/ |
 | Epicured | epicured.com | 1 | Use code FALL40 for 40% OFF + Free Shipping* on your first subscription order | https://epicured.com/ |
 | MamaSezz | mamasezz.com | 1 | 10% off your first order | https://www.mamasezz.com/ |
-| Icon Meals | iconmeals.com | 1 | 15% off | https://iconmeals.com/pages/hero |
+| Icon Meals | iconmeals.com | 1 | 15% Off | https://iconmeals.com/ |
 | Crowd Cow | crowdcow.com | 1 | Free favorites in every order | https://www.crowdcow.com/ |
 | Prep Dish | prepdish.com | 1 | Free 7-day trial | https://prepdish.com/ |
 | Magic Kitchen |  | 0 | (none extracted) |  |
