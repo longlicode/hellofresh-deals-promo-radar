@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-02T17:20:38+00:00`.
+Generated from `data/offers.json` at `2026-10-02T21:47:21+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -33,7 +33,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Epicured | epicured.com | 1 | Use code FALL40 for 40% OFF + Free Shipping* on your first subscription order | https://epicured.com/ |
 | MamaSezz | mamasezz.com | 1 | 10% off your first order | https://www.mamasezz.com/ |
 | Icon Meals | iconmeals.com | 1 | 15% Off | https://iconmeals.com/ |
-| Crowd Cow | crowdcow.com | 1 | Free favorites in every order | https://www.crowdcow.com/ |
+| Crowd Cow | crowdcow.com | 1 | Up to 25% off roasts and braising cuts | https://www.crowdcow.com/ |
 | Prep Dish | prepdish.com | 1 | Free 7-day trial | https://prepdish.com/ |
 | Magic Kitchen |  | 0 | (none extracted) |  |
 | Chefs Plate | chefsplate.com | 1 | Get Up to 20 Free Meals + Free Shipping + $1 menu | https://www.chefsplate.com/ |
