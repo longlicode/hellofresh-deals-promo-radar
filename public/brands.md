@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-05T13:24:56+00:00`.
+Generated from `data/offers.json` at `2026-10-05T17:15:07+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -20,13 +20,13 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | 25% OFF | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
-| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
+| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
 | Clean Eatz Kitchen | cleaneatzkitchen.com | 1 | Up to 20% off | https://www.cleaneatzkitchen.com/ |
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
-| Green Chef | greenchef.com | 1 | 50% Off | https://www.greenchef.com/ |
+| Green Chef | greenchef.com | 1 | Get 50% Off + 20% Off for Two Months* | https://www.greenchef.com/ |
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
-| Sunbasket | sunbasket.com | 1 | Get $90 off across 4 boxes | https://sunbasket.com/homepage-eat-clean/ |
+| Sunbasket | sunbasket.com | 1 | $90 off across 4 boxes * Activate Offer Menu How It Works Valu es | https://sunbasket.com/ |
 | Purple Carrot | purplecarrot.com | 1 | Order Now And Save Big / Get $100 Off Your First Month —> Shop Why Plants Gifts Log In Our Product FAQs Contact Us Log In The easies | https://www.purplecarrot.com/ |
 | ButcherBox | butcherbox.com | 3 | 30% Off | https://www.butcherbox.com/ |
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER | https://www.trifectanutrition.com/ |
@@ -45,7 +45,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Once Upon a Farm | onceuponafarmorganics.com | 3 | 45% OFF | https://onceuponafarmorganics.com/ |
 | Raw Generation | rawgeneration.com | 1 | SUBSCRIBE & SAVE 10% AND GET FREE SHIPPING | https://www.rawgeneration.com/ |
 | Kencko | kencko.com | 3 | START TODAY WITH 25% OFF + FREE SHIPPING + FREE BOTTLE 🎁 shop smoothies login Cart ★★★★★ 4 | https://www.kencko.com/ |
-| Huel | huel.com | 2 | Huel Free shipping $65+ Subscribe and save 25% Student discount boost: 33% off HSA/FSA Eligible: Learn more | https://huel.com/ |
+| Huel | huel.com | 2 | Want 15% Off and the Inside Scoop | https://huel.com/ |
 | Shef | shef.com | 2 | 40% off | https://shef.com/ |
 
 ## Machine-readable offers
