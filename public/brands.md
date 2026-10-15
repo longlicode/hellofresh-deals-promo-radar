@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-15T02:53:07+00:00`.
+Generated from `data/offers.json` at `2026-10-15T10:47:46+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -20,7 +20,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Splendid Spoon | splendidspoon.com | 1 | GET 10% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | 25% OFF | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
-| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
+| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
 | Clean Eatz Kitchen | cleaneatzkitchen.com | 1 | Up to 20% off | https://www.cleaneatzkitchen.com/ |
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
@@ -45,7 +45,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Once Upon a Farm | onceuponafarmorganics.com | 3 | Get 35% OFF your first box + 6 FREE Electrolyte Blends with code FALL35* | https://onceuponafarmorganics.com/ |
 | Raw Generation | rawgeneration.com | 1 | Use code WELCOME15 FREE SHIPPING OVER $250 SUBSCRIBE & SAVE 15% OFF + FREE SHIPPING Search S | https://www.rawgeneration.com/ |
 | Kencko | kencko.com | 3 | 25% off | https://www.kencko.com/ |
-| Huel | huel.com | 2 | Want 15% Off and the Inside Scoop | https://huel.com/ |
+| Huel | huel.com | 2 | 15% Off | https://huel.com/ |
 | Shef | shef.com | 2 | 40% off | https://shef.com/ |
 
 ## Machine-readable offers
