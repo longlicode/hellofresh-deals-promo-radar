@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-17T12:17:39+00:00`.
+Generated from `data/offers.json` at `2026-10-17T14:54:23+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -20,7 +20,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | 25% OFF | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
-| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
+| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
 | Clean Eatz Kitchen | cleaneatzkitchen.com | 1 | Up to 20% off | https://www.cleaneatzkitchen.com/ |
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
@@ -32,7 +32,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER | https://www.trifectanutrition.com/ |
 | Epicured | epicured.com | 1 | Use code FALL40 for 40% OFF + Free Shipping* on your first subscription order | https://epicured.com/ |
 | MamaSezz | mamasezz.com | 1 | 10% off your first order | https://www.mamasezz.com/ |
-| Icon Meals | iconmeals.com | 1 | 15% off | https://iconmeals.com/pages/hero |
+| Icon Meals | iconmeals.com | 1 | 15% Off | https://iconmeals.com/ |
 | Crowd Cow | crowdcow.com | 1 | Up to 25% off roasts and braising cuts | https://www.crowdcow.com/ |
 | Prep Dish | prepdish.com | 1 | Free 7-day trial | https://prepdish.com/ |
 | Magic Kitchen |  | 0 | (none extracted) |  |
