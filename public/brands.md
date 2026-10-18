@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-18T15:18:33+00:00`.
+Generated from `data/offers.json` at `2026-10-18T20:01:50+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -14,7 +14,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Factor | factor75.com | 2 | Get 50% Off + Free Breakfast for 1 Year | https://www.factor75.com/ |
 | Marley Spoon | marleyspoon.com | 1 | Up to 50% Off | https://marleyspoon.com/offer/black-friday-rtc-50p |
 | Hungryroot | hungryroot.com | 2 | 40% off your first order plus 1 free item for life | https://eat.hungryroot.com/2025-save-big |
-| CookUnity | cookunity.com | 2 | 50% Off | https://www.cookunity.com/ |
+| CookUnity | cookunity.com | 1 | 50% Off | https://www.cookunity.com/ |
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
 | Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
@@ -32,7 +32,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER | https://www.trifectanutrition.com/ |
 | Epicured | epicured.com | 1 | Use code FALL40 for 40% OFF + Free Shipping* on your first subscription order | https://epicured.com/ |
 | MamaSezz | mamasezz.com | 1 | 10% off your first order | https://www.mamasezz.com/ |
-| Icon Meals | iconmeals.com | 1 | 15% Off | https://iconmeals.com/ |
+| Icon Meals | iconmeals.com | 1 | 15% off | https://iconmeals.com/pages/hero |
 | Crowd Cow | crowdcow.com | 1 | Up to 25% off roasts and braising cuts | https://www.crowdcow.com/ |
 | Prep Dish | prepdish.com | 1 | Free 7-day trial | https://prepdish.com/ |
 | Magic Kitchen |  | 0 | (none extracted) |  |
