@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-20T21:13:06+00:00`.
+Generated from `data/offers.json` at `2026-10-21T03:00:40+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -14,10 +14,10 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Factor | factor75.com | 2 | Get 50% Off + Free Breakfast for 1 Year | https://www.factor75.com/ |
 | Marley Spoon | marleyspoon.com | 1 | Up to 50% Off | https://marleyspoon.com/offer/black-friday-rtc-50p |
 | Hungryroot | hungryroot.com | 2 | 40% off your first order plus 1 free item for life | https://eat.hungryroot.com/2025-save-big |
-| CookUnity | cookunity.com | 1 | 50% Off | https://www.cookunity.com/ |
+| CookUnity | cookunity.com | 2 | 50% Off | https://www.cookunity.com/ |
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
-| Splendid Spoon | splendidspoon.com | 1 | GET 10% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
+| Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | 25% OFF | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
 | Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
