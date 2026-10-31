@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-31T03:47:23+00:00`.
+Generated from `data/offers.json` at `2026-10-31T11:37:18+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -14,10 +14,10 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Factor | factor75.com | 2 | Get 50% Off + Free Breakfast for 1 Year | https://www.factor75.com/ |
 | Marley Spoon | marleyspoon.com | 1 | Up to 50% Off | https://marleyspoon.com/offer/black-friday-rtc-50p |
 | Hungryroot | hungryroot.com | 2 | 40% off your first order plus 1 free item for life | https://eat.hungryroot.com/2025-save-big |
-| CookUnity | cookunity.com | 2 | 50% Off | https://www.cookunity.com/ |
+| CookUnity | cookunity.com | 1 | 50% Off | https://www.cookunity.com/ |
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
-| Splendid Spoon | splendidspoon.com | 1 | GET 10% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
+| Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 1 | Spend $100+, get 10% off | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
 | Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
@@ -26,7 +26,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
 | Green Chef | greenchef.com | 1 | Get 50% Off + 20% Off for Two Months* | https://www.greenchef.com/ |
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
-| Sunbasket | sunbasket.com | 1 | $90 off across 4 boxes * Activate Offer Menu How It Works Values Thanksgiving Menu How | https://sunbasket.com/ |
+| Sunbasket | sunbasket.com | 1 | Get $90 off across 4 boxes | https://sunbasket.com/homepage-eat-clean/ |
 | Purple Carrot | purplecarrot.com | 1 | Skip to main content Limited Time / Get 50% Off Your First Order —> Shop Why Plants Gifts Log In Our Product FAQs Contact Us Log In New To Pur | https://www.purplecarrot.com/ |
 | ButcherBox | butcherbox.com | 1 | Claim your free protein now | https://www.butcherbox.com/ |
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER + FREE SHIPPING FOR LIFE | https://www.trifectanutrition.com/ |
@@ -42,7 +42,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Provenance Meals | provenancemeals.com | 1 | Exclusive benefits include 10% off your first order of prepared meals, access to special events and flash sales, h | https://www.provenancemeals.com/ |
 | Silver Cuisine | silvercuisine.com | 3 | AARP Discount First Order: • 25% Off & Free Shipping on O rders $99+ Recurring Orders: • 10 | https://www.bistromd.com/pages/silver-transition/ |
 | Nurture Life | nurturelife.com | 1 | $5 / $10 / $15 off at 10 / 14 / 21 items | https://www.nurturelife.com/ |
-| Once Upon a Farm | onceuponafarmorganics.com | 3 | Get 35% OFF your first box + 6 FREE Electrolyte Blends with code FALL35* | https://onceuponafarmorganics.com/ |
+| Once Upon a Farm | onceuponafarmorganics.com | 2 | Get 35% OFF your first box + 6 FREE Electrolyte Blends with code FALL35* | https://onceuponafarmorganics.com/ |
 | Raw Generation | rawgeneration.com | 1 | Use code WELCOME15 FREE SHIPPING OVER $250 SUBSCRIBE & SAVE 15% OFF + FREE SHIPPING Search S | https://www.rawgeneration.com/ |
 | Kencko | kencko.com | 3 | 25% off | https://www.kencko.com/ |
 | Huel | huel.com | 2 | 15% Off | https://huel.com/ |
