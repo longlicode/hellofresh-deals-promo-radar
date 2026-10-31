@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-31T11:37:18+00:00`.
+Generated from `data/offers.json` at `2026-10-31T14:37:41+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -26,7 +26,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
 | Green Chef | greenchef.com | 1 | Get 50% Off + 20% Off for Two Months* | https://www.greenchef.com/ |
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
-| Sunbasket | sunbasket.com | 1 | Get $90 off across 4 boxes | https://sunbasket.com/homepage-eat-clean/ |
+| Sunbasket | sunbasket.com | 1 | $90 off across 4 boxes * Activate Offer Menu How It Works Values Thanksgiving Menu How | https://sunbasket.com/ |
 | Purple Carrot | purplecarrot.com | 1 | Skip to main content Limited Time / Get 50% Off Your First Order —> Shop Why Plants Gifts Log In Our Product FAQs Contact Us Log In New To Pur | https://www.purplecarrot.com/ |
 | ButcherBox | butcherbox.com | 1 | Claim your free protein now | https://www.butcherbox.com/ |
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER + FREE SHIPPING FOR LIFE | https://www.trifectanutrition.com/ |
