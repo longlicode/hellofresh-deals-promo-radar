@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-10-30T21:56:14+00:00`.
+Generated from `data/offers.json` at `2026-10-31T03:47:23+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -17,16 +17,16 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | CookUnity | cookunity.com | 2 | 50% Off | https://www.cookunity.com/ |
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
-| Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
+| Splendid Spoon | splendidspoon.com | 1 | GET 10% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 1 | Spend $100+, get 10% off | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | 30% with code RESET30 | https://www.sakara.com/ |
-| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
+| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
 | Clean Eatz Kitchen | cleaneatzkitchen.com | 1 | Up to 20% off | https://www.cleaneatzkitchen.com/ |
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
 | Green Chef | greenchef.com | 1 | Get 50% Off + 20% Off for Two Months* | https://www.greenchef.com/ |
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
-| Sunbasket | sunbasket.com | 1 | Get $90 off across 4 boxes | https://sunbasket.com/homepage-eat-clean/ |
+| Sunbasket | sunbasket.com | 1 | $90 off across 4 boxes * Activate Offer Menu How It Works Values Thanksgiving Menu How | https://sunbasket.com/ |
 | Purple Carrot | purplecarrot.com | 1 | Skip to main content Limited Time / Get 50% Off Your First Order —> Shop Why Plants Gifts Log In Our Product FAQs Contact Us Log In New To Pur | https://www.purplecarrot.com/ |
 | ButcherBox | butcherbox.com | 1 | Claim your free protein now | https://www.butcherbox.com/ |
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER + FREE SHIPPING FOR LIFE | https://www.trifectanutrition.com/ |
