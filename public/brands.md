@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-11-12T16:53:41+00:00`.
+Generated from `data/offers.json` at `2026-11-12T23:09:12+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -14,7 +14,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Factor | factor75.com | 2 | Get 50% Off + Free Breakfast for 1 Year | https://www.factor75.com/ |
 | Marley Spoon | marleyspoon.com | 1 | Up to 50% Off | https://marleyspoon.com/offer/black-friday-rtc-50p |
 | Hungryroot | hungryroot.com | 2 | 40% off your first order plus 1 free item for life | https://eat.hungryroot.com/2025-save-big |
-| CookUnity | cookunity.com | 2 | 50% Off | https://www.cookunity.com/ |
+| CookUnity | cookunity.com | 1 | 50% Off | https://www.cookunity.com/ |
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
 | Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
@@ -43,7 +43,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Silver Cuisine | silvercuisine.com | 3 | AARP Discount First Order: • 25% Off & Free Shipping on O rders $99+ Recurring Orders: • 10 | https://www.bistromd.com/pages/silver-transition/ |
 | Nurture Life | nurturelife.com | 1 | $5 / $10 / $15 off at 10 / 14 / 21 items | https://www.nurturelife.com/ |
 | Once Upon a Farm | onceuponafarmorganics.com | 3 | 50% OFF | https://onceuponafarmorganics.com/ |
-| Raw Generation | rawgeneration.com | 3 | FREE SHIPPING SITEWIDE ~ Use code: FREESHIPPINGSave up to 35% on Cleanses - No Code Needed | https://www.rawgeneration.com/ |
+| Raw Generation | rawgeneration.com | 3 | Skip to content 1"}' > Save up to 35% ~ No Code Needed FREE SHIPPING SITEWIDE 4 FREE JUICES with a 14-day Radiance Ro | https://www.rawgeneration.com/ |
 | Kencko | kencko.com | 3 | 25% off | https://www.kencko.com/ |
 | Huel | huel.com | 2 | Want 15% Off and the Inside Scoop | https://huel.com/ |
 | Shef | shef.com | 2 | 40% off | https://shef.com/ |
