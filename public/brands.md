@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-11-17T15:26:09+00:00`.
+Generated from `data/offers.json` at `2026-11-17T17:42:34+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -11,7 +11,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | HelloFresh | hellofresh.com | 1 | Get Free Breakfast for Life + 10 Free Meals on Us | https://www.hellofresh.com/eat/coupon-codes-and-promotions |
 | Blue Apron | blueapron.com | 2 | Get $25 off your first 2 orders + Free Shipping with code WELCOME25 | https://blog.blueapron.com/guides/eggs-your-way-introducing-everyday-essentials |
 | Home Chef | homechef.com | 2 | 18 Free Meals + Free Shipping on your First Box | https://www.homechef.com/ |
-| Factor | factor75.com | 2 | Get 50% Off + Free Breakfast for 1 Year | https://www.factor75.com/ |
+| Factor | factor75.com | 3 | Get 50% Off + Free Breakfast for 1 Year | https://www.factor75.com/ |
 | Marley Spoon | marleyspoon.com | 1 | Up to 50% Off | https://marleyspoon.com/offer/black-friday-rtc-50p |
 | Hungryroot | hungryroot.com | 2 | 40% off your first order plus 1 free item for life | https://eat.hungryroot.com/2025-save-big |
 | CookUnity | cookunity.com | 2 | 50% Off | https://www.cookunity.com/ |
