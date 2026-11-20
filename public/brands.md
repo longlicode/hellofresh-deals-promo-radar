@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-11-19T17:28:04+00:00`.
+Generated from `data/offers.json` at `2026-11-20T00:14:58+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -43,7 +43,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Silver Cuisine | silvercuisine.com | 3 | AARP Discount First Order: • 25% Off & Free Shipping on O rders $99+ Recurring Orders: • 10 | https://www.bistromd.com/pages/silver-transition/ |
 | Nurture Life | nurturelife.com | 1 | $5 / $10 / $15 off at 10 / 14 / 21 items | https://www.nurturelife.com/ |
 | Once Upon a Farm | onceuponafarmorganics.com | 3 | 50% OFF | https://onceuponafarmorganics.com/ |
-| Raw Generation | rawgeneration.com | 3 | Skip to content 1"}' > Save up to 35% ~ No Code Needed FREE SHIPPING SITEWIDE 4 FREE JUICES with a 14-day Radiance Ro | https://www.rawgeneration.com/ |
+| Raw Generation | rawgeneration.com | 3 | Skip to content 1"}' > Up to 65% OFF + Free Shipping Black Friday Early Access is Live EXTRA 20% OFF (code BFCM26) | https://www.rawgeneration.com/ |
 | Kencko | kencko.com | 3 | 25% off | https://www.kencko.com/ |
 | Huel | huel.com | 2 | Want 15% Off and the Inside Scoop | https://huel.com/ |
 | Shef | shef.com | 2 | 40% off | https://shef.com/ |
