@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-11-24T03:46:09+00:00`.
+Generated from `data/offers.json` at `2026-11-24T16:55:11+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -18,7 +18,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Thistle | thistle.co | 1 | 50% Off | https://try.thistle.co/specialty_discounts/ |
 | Gobble | gobble.com | 1 | $120 off across 4 boxes | https://www.gobble.com/quickmeals-menu/ |
 | Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
-| Daily Harvest | daily-harvest.com | 2 | 30% off | https://daily-harvest.com/ |
+| Daily Harvest | daily-harvest.com | 2 | Get $20 off 1 Bundle, $50 off 2 Bundles, or $100 off 3 Bundles when purchased as a one-time order | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | Use code HOLIDAY26 at checkout for 25% off | https://www.sakara.com/ |
 | Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | DIABETES AWARENESS MONTH - 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
