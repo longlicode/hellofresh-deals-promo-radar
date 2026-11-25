@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-11-25T01:53:09+00:00`.
+Generated from `data/offers.json` at `2026-11-25T16:43:09+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -27,7 +27,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Green Chef | greenchef.com | 1 | Get 50% Off + 20% Off for Two Months* | https://www.greenchef.com/ |
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
 | Sunbasket | sunbasket.com | 1 | $90 off across 4 boxes * Activate Offer Menu How It Works Values Thanksgiving Thanksgiv | https://sunbasket.com/ |
-| Purple Carrot | purplecarrot.com | 1 | Well for Less / Don't Miss $100 Off —> Shop Why Plants Gifts Log In Our Product FAQs Contact Us Log In New To Purple Carrot | https://www.purplecarrot.com/ |
+| Purple Carrot | purplecarrot.com | 1 | FRIDAY SAVINGS ARE HERE / GET 50% OFF PLUS FREE SHIPPING —> Shop Why Plants Gifts Log In Our Product Shop Why Plan | https://www.purplecarrot.com/ |
 | ButcherBox | butcherbox.com | 1 | Pick your steak: FREE Ribeyes, NY Strips, or Filet Mignons for a year, plus $100 off | https://www.butcherbox.com/ |
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER + FREE SHIPPING FOR LIFE | https://www.trifectanutrition.com/ |
 | Epicured | epicured.com | 1 | Use code FALL40 for 40% OFF + Free Shipping* on your first subscription order | https://epicured.com/ |
