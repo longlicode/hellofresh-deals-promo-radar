@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-11-26T01:30:30+00:00`.
+Generated from `data/offers.json` at `2026-11-26T16:16:50+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -20,7 +20,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | Get $20 off 1 Bundle, $50 off 2 Bundles, or $100 off 3 Bundles when purchased as a one-time order | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | Use code HOLIDAY26 at checkout for 25% off | https://www.sakara.com/ |
-| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
+| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | DIABETES AWARENESS MONTH - 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
 | Clean Eatz Kitchen | cleaneatzkitchen.com | 1 | Up to 20% off | https://www.cleaneatzkitchen.com/ |
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
@@ -28,7 +28,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Dinnerly | dinnerly.com | 1 | Order now and get up to $180 off your first 5 boxes | https://dinnerly.com/ |
 | Sunbasket | sunbasket.com | 1 | $90 off across 4 boxes * Activate Offer Menu How It Works Values Thanksgiving Thanksgiv | https://sunbasket.com/ |
 | Purple Carrot | purplecarrot.com | 1 | FRIDAY SAVINGS ARE HERE / GET 50% OFF PLUS FREE SHIPPING —> Shop Why Plants Gifts Log In Our Product Shop Why Plan | https://www.purplecarrot.com/ |
-| ButcherBox | butcherbox.com | 1 | Pick your steak: FREE Ribeyes, NY Strips, or Filet Mignons for a year, plus $100 off | https://www.butcherbox.com/ |
+| ButcherBox | butcherbox.com | 1 | Claim your free protein now | https://www.butcherbox.com/ |
 | Trifecta | trifectanutrition.com | 1 | 50% OFF YOUR FIRST ORDER + FREE SHIPPING FOR LIFE | https://www.trifectanutrition.com/ |
 | Epicured | epicured.com | 1 | Use code FALL40 for 40% OFF + Free Shipping* on your first subscription order | https://epicured.com/ |
 | MamaSezz | mamasezz.com | 1 | 10% off your first order | https://www.mamasezz.com/ |
