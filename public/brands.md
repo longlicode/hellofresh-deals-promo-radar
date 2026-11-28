@@ -1,6 +1,6 @@
 # Meal kit / meal delivery brands tracked by mealkitdeals
 
-Generated from `data/offers.json` at `2026-11-28T01:00:32+00:00`.
+Generated from `data/offers.json` at `2026-11-28T14:58:56+00:00`.
 
 Live listings: https://mealkitdeals.com/
 
@@ -20,7 +20,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Splendid Spoon | splendidspoon.com | 1 | GET 20% OFF YOUR FIRST BOX | https://splendidspoon.com/ |
 | Daily Harvest | daily-harvest.com | 2 | Get $20 off 1 Bundle, $50 off 2 Bundles, or $100 off 3 Bundles when purchased as a one-time order | https://daily-harvest.com/ |
 | Sakara | sakara.com | 3 | Use code HOLIDAY26 at checkout for 30% off | https://www.sakara.com/ |
-| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 20% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
+| Mosaic Foods | mosaicfoods.com | 1 | FIRST BOX Sign up to receive 10% off your first order and exclusive access to our best offers | https://www.mosaicfoods.com/ |
 | ModifyHealth | modifyhealth.com | 1 | DIABETES AWARENESS MONTH - 25% OFF YOUR FIRST ORDER + FREE SHIPPING WITH CODE 'THRIVE25' | https://modifyhealth.com/ |
 | Clean Eatz Kitchen | cleaneatzkitchen.com | 1 | Up to 20% off | https://www.cleaneatzkitchen.com/ |
 | EveryPlate | everyplate.com | 3 | 10% off | https://www.everyplate.com/eat/coupon-codes-and-promotions |
@@ -43,7 +43,7 @@ Only fields present in the scrape are shown. Empty means the official public pag
 | Silver Cuisine | silvercuisine.com | 3 | AARP Discount First Order: • 25% Off & Free Shipping on O rders $99+ Recurring Orders: • 10 | https://www.bistromd.com/pages/silver-transition/ |
 | Nurture Life | nurturelife.com | 1 | $5 / $10 / $15 off at 10 / 14 / 21 items | https://www.nurturelife.com/ |
 | Once Upon a Farm | onceuponafarmorganics.com | 3 | 50% OFF | https://onceuponafarmorganics.com/ |
-| Raw Generation | rawgeneration.com | 3 | Skip to content 1"}' > Up to 65% OFF + Free Shipping Black Friday Early Access is Live EXTRA 20% OFF (code BFCM26) | https://www.rawgeneration.com/ |
+| Raw Generation | rawgeneration.com | 3 | Skip to content 1"}' > Up to 65% OFF + Free Shipping Black Friday is Live EXTRA 20% OFF with code B (code BFCM26) | https://www.rawgeneration.com/ |
 | Kencko | kencko.com | 3 | 25% off | https://www.kencko.com/ |
 | Huel | huel.com | 3 | Shop now 🔥 Bestseller 20% off using code BF26 Black Edition Complete high-protein powder meal 40g protein 400 | https://huel.com/ |
 | Shef | shef.com | 2 | 30% off | https://shef.com/ |
